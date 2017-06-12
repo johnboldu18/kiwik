@@ -15,3 +15,10 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
+//= require toastr 
+toastr.options = {
+ 
+ "positionClass": "toast-bottom-right"
+ 
+ }
+
